@@ -1,0 +1,1 @@
+import{j as e}from"./index-DFu2sDJq.js";const a=({title:t,subtitle:s})=>e.jsx("div",{className:"flex items-center md:justify-between flex-wrap gap-2 mb-4 print:hidden",children:e.jsx("h4",{className:"text-default-900 text-lg font-semibold",children:t})});export{a as P};

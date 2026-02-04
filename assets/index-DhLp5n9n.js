@@ -1,0 +1,1 @@
+import{j as t}from"./index-DFu2sDJq.js";import{P as r}from"./PageBreadcrumb-CUiN4NYL.js";import{P as e}from"./PageMeta-DTZH-fGk.js";const m=()=>t.jsxs(t.Fragment,{children:[t.jsx(e,{title:"Starter"}),t.jsxs("main",{children:[t.jsx(r,{title:"Starter",subtitle:"Menu"}),t.jsx("div",{className:"card h-40"})]})]});export{m as default};
