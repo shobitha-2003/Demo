@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[1015],{5186:(a,s,e)=>{e.r(s),e.d(s,{default:()=>c});e(5043);var t=e(8378),i=e(1681),p=e(579);const c=()=>(0,p.jsx)(t.A,{activeTab:"profile",children:(0,p.jsx)("div",{className:"dashboard-body__content mt-3 px-md-4 px-3",children:(0,p.jsx)(i.A,{initialTab:"settings"})})})}}]);
+//# sourceMappingURL=1015.5c7050e1.chunk.js.map
