@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[7308],{7308:(s,a,e)=>{e.r(a),e.d(a,{default:()=>c});e(5043);var p=e(8378),t=e(2979),d=e(579);const c=()=>(0,d.jsx)(p.A,{activeTab:"submitted-proposals",children:(0,d.jsx)("div",{className:"dashboard-body__content mt-3 px-md-4 px-3",children:(0,d.jsx)(t.A,{activeSub:"submitted-proposals"})})})}}]);
+//# sourceMappingURL=7308.d0659d0f.chunk.js.map
