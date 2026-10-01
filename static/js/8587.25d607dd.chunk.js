@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[8587],{968:(s,a,e)=>{e.r(a),e.d(a,{default:()=>p});e(5043);var t=e(8378),c=e(2734),d=e(579);const p=()=>(0,d.jsx)(t.A,{activeTab:"stock-alerts",children:(0,d.jsx)("div",{className:"dashboard-body__content mt-3 px-md-4 px-3",children:(0,d.jsx)(c.A,{activeSub:"stock-alerts"})})})}}]);
+//# sourceMappingURL=8587.25d607dd.chunk.js.map
