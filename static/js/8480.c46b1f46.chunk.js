@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[8480],{8480:(e,s,a)=>{a.r(s),a.d(s,{default:()=>t});a(5043);var d=a(8378),c=a(171),p=a(579);const t=()=>(0,p.jsx)(d.A,{activeTab:"completed-orders",children:(0,p.jsx)("div",{className:"dashboard-body__content mt-3 px-0 px-sm-2 px-md-3",children:(0,p.jsx)(c.A,{activeSub:"completed-orders"})})})}}]);
+//# sourceMappingURL=8480.c46b1f46.chunk.js.map
