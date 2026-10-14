@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[3462],{3462:(e,a,c)=>{c.r(a),c.d(a,{default:()=>r});c(5043);var s=c(8378),d=c(171),l=c(579);const r=()=>(0,l.jsx)(s.A,{activeTab:"cancelled-orders",children:(0,l.jsx)("div",{className:"dashboard-body__content mt-3 px-md-4 px-3",children:(0,l.jsx)(d.A,{activeSub:"cancelled-orders"})})})}}]);
+//# sourceMappingURL=3462.66bccb0e.chunk.js.map
