@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[5932],{5932:(e,s,a)=>{a.r(s),a.d(s,{default:()=>p});a(5043);var t=a(8378),c=a(2979),d=a(579);const p=()=>(0,d.jsx)(t.A,{activeTab:"rejected-requests",children:(0,d.jsx)("div",{className:"dashboard-body__content mt-3 px-0 px-sm-2 px-md-3",children:(0,d.jsx)(c.A,{activeSub:"rejected-requests"})})})}}]);
+//# sourceMappingURL=5932.47c665d7.chunk.js.map

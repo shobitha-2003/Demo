@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[6646],{8540:(e,s,a)=>{a.r(s),a.d(s,{default:()=>i});a(5043);var r=a(9981),c=a(7770),n=a(6307),t=a(6165),h=a(2784),u=a(8617),l=a(579);const i=()=>{const e=(0,r.zy)(),s=new URLSearchParams(e.search).get("search")||"",a=window.location.href;return(0,l.jsxs)(l.Fragment,{children:[(0,l.jsx)(u.k,{url:a}),(0,l.jsx)(t.A,{}),(0,l.jsx)(c.A,{initialSearchQuery:s}),(0,l.jsx)(n.A,{}),(0,l.jsx)(h.default,{})]})}}}]);
+//# sourceMappingURL=6646.e360b8cd.chunk.js.map
